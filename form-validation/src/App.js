@@ -1,4 +1,5 @@
 import './App.css';
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
 import background from './asset/img.jpg';
 import { Singup } from './components/Singup';
 
